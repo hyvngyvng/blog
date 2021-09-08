@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    # url: /about/
+  - title: "Category"
+    url: /categories/
+  # - title: "Machine/Deep learning"
+  #   url: /categories/Machine/Deep learning/
+  - title: "Database"
+    url: /categories/DATABASE/
+  - title: "Tags"
+    url: /tags/
